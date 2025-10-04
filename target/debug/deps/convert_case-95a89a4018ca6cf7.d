@@ -1,0 +1,11 @@
+/home/ritwik-yadav/Vector/target/debug/deps/libconvert_case-95a89a4018ca6cf7.rmeta: /home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs /home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs /home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs /home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs /home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs
+
+/home/ritwik-yadav/Vector/target/debug/deps/libconvert_case-95a89a4018ca6cf7.rlib: /home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs /home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs /home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs /home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs /home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs
+
+/home/ritwik-yadav/Vector/target/debug/deps/convert_case-95a89a4018ca6cf7.d: /home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs /home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs /home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs /home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs /home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs
+
+/home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/lib.rs:
+/home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/boundary.rs:
+/home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/case.rs:
+/home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/converter.rs:
+/home/ritwik-yadav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/convert_case-0.7.1/src/pattern.rs:
