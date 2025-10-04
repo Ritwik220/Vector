@@ -2,6 +2,6 @@ mod editor;
 use editor::Editor;
 
 fn main() {
-    let editor = Editor::defualt();
+    let mut editor = Editor::defualt();
     editor.run();
 }
